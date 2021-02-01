@@ -1,0 +1,20 @@
+name: oFreeze
+author: J0ESTAR_
+version: 1.1.0
+main: fr.joestar.Freeze
+commands: 
+  freeze:
+    usage: /<command>
+  frozen:
+    usage: /<command>
+    
+permissions:
+  freeze.use:
+    description: Able to use the freeze command.
+    default: op
+  freeze.all:
+    description: Able to use the freeze * commands.
+    default: op
+  frozen.use:
+    description: Able to use the frozen command.
+    default: op
