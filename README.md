@@ -43,6 +43,3 @@ In the future i go add:
     Configuration files
     Temporarly freeze
     Ban at disconnect if player is frozen
-
-
-tobirama_(Now my name is J0ESTAR_).
